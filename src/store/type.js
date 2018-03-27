@@ -1,0 +1,14 @@
+export const HEAD_SHOW_SUCCESS='HEAD_SHOW_SUCCESS';
+export const HEAD_SHOW_FAIL='HEAD_SHOW_FAIL';
+
+export const HIDE_LOADING='HIDE_LOADING';
+export const SHOW_LOADING='SHOW_LOADING';
+
+export const FOOTER_SHOW='FOOTER_SHOW';
+export const FOOTER_HIDE='FOOTER_HIDE';
+
+export const REMOVE_ORDER_STATUS = 'REMOVE_ORDER_STATUS'//清除订单状态
+export const SET_ORDER_STATUS = 'SET_ORDER_STATUS';//设置订单状态
+export const GET_ORDER_LIST = 'GET_ORDER_LIST'//获取订单列表
+export const GET_ORDER_DETAIL = 'GET_ORDER_DETAIL'//获取订单详情
+export const SET_RECEIVE_GOODS = 'SET_RECEIVE_GOODS'//已收货
